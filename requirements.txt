@@ -1,0 +1,5 @@
+discord.py
+beautifulsoup4
+asyncio
+requests
+python-dotenv
