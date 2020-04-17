@@ -17,7 +17,6 @@ padlet_appid = os.getenv('APPID')
 
 with open("config_main.json") as json_file:
     vals = json.load(json_file)
-padlet_appid = vals['Padlet']['App ID']
 padlet_url = vals['Padlet']['URL']
 t_delay = vals['Discord']['Time between loop']  # in minutes
 bot_call = vals['Discord']['Bot Mention']
