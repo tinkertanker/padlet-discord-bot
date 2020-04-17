@@ -1,21 +1,15 @@
 {
 	"Padlet":{
 		"App Name": "padlet_bot",
-		"App ID": "897aa15595f403fd1926b62a44a10e5dd9119bf4629b5021565303da2920f266",
 		"URL": "https://padlet.com/navneethk/testingtesting"
 	},
 	"Discord":{
-	    "Bot Client ID": "Njk5MTg3NDM5NTMyNTA3MjE2.XpVjJA.f3rgZW1bA1fVW2SY8mlDZb1YTtg",
-		"Server ID": 697672130376237096,
 		"Channels":{
 			"allowed": ["general", "hw-submission"],
-			"admin-submissions-track": 697682410581786714,
-			"hw-alert-for-students": 697682410581786714,
 			"general": 697672130376237099,
-			"hw-submission": 697682410581786714,
-			"tasks": 697682515091259402
+			"hw-submission": 697682410581786714
 		},
 		"Bot Mention": "!",
-		"Time between loop": 15
+		"Time between loop": 1
 	}
 }

@@ -1,17 +1,14 @@
 {
 	"Padlet":{
 		"App Name": "Discord Notification Bot",
-		"App ID": "abb7cd21ac85a36e7a4c588f3da33ea3c09d01cd3b8a8358d5825978f0125987",
 		"URL": "https://padlet.com/tinkercademy/swift2020submissions"
 	},
 	"Discord":{
-	    "Bot Client ID": "Njk5MTg3NDM5NTMyNTA3MjE2.XpVjJA.f3rgZW1bA1fVW2SY8mlDZb1YTtg",
-		"Server ID": 100000,
 		"Channels":{
 		    "allowed": ["submissions"],
-			"admin-submissions-track": 696212832533872640
+			"posting-channel": 696212832533872640
 		},
-		"Bot Mention": ".",
-		"Time between loop": 15
+		"Bot Mention": "!",
+		"Time between loop": 5
 	}
 }
